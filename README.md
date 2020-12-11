@@ -18,6 +18,8 @@ Follow the steps and you're done!
 
 Click the shortcut on your desktop or in the start menu search Domi and Enjoy!
 
+I do not take responsablity for the games that i packaged with the launcher.
+
 If you encouter any issue, please report it. 
 
 Thank you for using my product!
